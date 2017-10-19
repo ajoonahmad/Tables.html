@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+body {
+background-image; url("https://www.google.ca/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjstfaIqP3WAhWkqVQKHWjgDAIQjRwIBw&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F600743%2Fhow-to-get-div-height-to-auto-adjust-to-background-size&psig=AOvVaw219Mrm3VM6VCjG3H-uTYto&ust=1508524005785431");
+}
+table, th, td {
+    border: 1px solid black;
+}
+#yolo {
+color: red
+}
+#hi {
+background-color: cyan
+}
+img {
+     width: 250px;
+     height: 150px;
+     display: block;
+     margin: auto;
+}
+</style>
+<h1 id="yolo">Movies</h1>
+<a href="http://forrestgump.wikia.com/wiki/Forrest_Gump"><img src="https://vignette1.wikia.nocookie.net/f__/images/a/a9/Forrest-gump-original.jpg/revision/latest?cb=20110908174919&path-prefix=forrestgump">
+
+<table id="hi">
+  <tr>
+    <th>Title</th>
+    <th>Summary</th> 
+    <th>Rating</th>
+  </tr>
+  <tr>
+    <td>Forest Gump</td>
+    <td>The life of A man, his childhood, his life as a veteran, vietnam war, etc.</td>
+    <td>14A</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>Deadpool</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
+
+</body>
+</html>
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+#u {
+color: purple
+}
+
+</style>
+<h1 id="u">Songs</h1>
+
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Artist</th> 
+    <th>Album</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Starboy</td>
+    <td>Smith</td>
+    <td>50</td>
+    <td><a href="url">link text</a></td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+    <td><a href="url">link text</a></td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+    <td><a href="url">link text</a></td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+    <td><a href="url">link text</a></td>
+  </tr>
+</table>
+
+</body>
+</html>
