@@ -8,6 +8,9 @@ background-image; url("https://www.google.ca/url?sa=i&rct=j&q=&esrc=s&source=ima
 table, th, td {
     border: 1px solid black;
 }
+th {
+color: red;
+}
 
 #u {
 color: purple
@@ -45,19 +48,19 @@ img {
     <td>14A</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>Maze Runner</td>
+    <td>A boy is stuck in a maze and imbarks in an adventure with the people he meets on the way</td>
+    <td>Pg-13</td>
   </tr>
   <tr>
     <td>Deadpool</td>
-    <td>Doe</td>
-    <td>80</td>
+    <td>An action packed superhero movie, about the town's new superhero, Deadpool</td>
+    <td>R</td>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
+    <td>White House Down</td>
+    <td>After the white house has been attacked by terrorist looking to assassinate the president, it is up to one man to protect the president.</td>
+    <td>R</td>
   </tr>
 </table>
 
@@ -69,7 +72,6 @@ img {
 
 
 <h1 id="u">Songs</h1>
-<a href="
 <table>
   <tr>
     <th>Title</th>
@@ -79,27 +81,27 @@ img {
   </tr>
   <tr>
     <td>Starboy</td>
-    <td>Smith</td>
-    <td>50</td>
-    <td><a href="url">link text</a></td>
+    <td>The Weeknd</td>
+    <td>Starboy</td>
+    <td><a href="https://www.youtube.com/watch?v=34Na4j8AVgA">Starboy</a></td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-    <td><a href="url">link text</a></td>
+    <td>Not going Home</td>
+    <td>DVBBS</td>
+    <td>N/A</td>
+    <td><a href="https://www.youtube.com/watch?v=ut6dSB5Y8m4">Not going home</a></td>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
-    <td><a href="url">link text</a></td>
+    <td>Flare guns</td>
+    <td>Quinn XCII</td>
+    <td>Story of us</td>
+    <td><a href="https://www.youtube.com/watch?v=4puL8svQAa0">Flare Guns</a></td>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
-    <td><a href="url">link text</a></td>
+    <td>Don't you</td>
+    <td>Quinn XCII</td>
+    <td>Story of us</td>
+    <td><a href="https://www.youtube.com/watch?v=CkpgVYXKf-Y">Don't you</a></td>
   </tr>
 </table>
 
